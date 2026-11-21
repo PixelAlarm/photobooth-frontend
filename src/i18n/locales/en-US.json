@@ -143,7 +143,8 @@
   "translatedFrontendNotifications": {
     "processing": {
       "machine_occupied": "⌛ There is already a job running. Please wait until it finished.",
-      "job_failed": "😔 Error processing the job. Please try again."
+      "job_failed": "😔 Error processing the job. Please try again.",
+      "missing_files": "Cannot start, file(s) missing: {files}."
     },
     "share": {
       "service_disabled": "The shareservice is disabled! Please enable it in the admin configuration before use.",
